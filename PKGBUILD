@@ -17,7 +17,6 @@ depends=(
                 'base'
                 'bind'
                 'brltty'
-                'broadcom-wl'
                 'btrfs-progs'
                 'clonezilla'
                 'cloud-init'
