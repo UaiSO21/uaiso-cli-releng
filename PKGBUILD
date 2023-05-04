@@ -96,7 +96,6 @@ depends=(
                 'pv'
                 'qemu-guest-agent'
                 'refind'
-                'reflector'
                 'reiserfsprogs'
                 'rp-pppoe'
                 'rsync'
